@@ -1,0 +1,122 @@
+# ===================================
+# Billboard Music Database - .gitignore
+# ===================================
+
+# ============ CRITICAL: API Keys & Secrets ============
+# NEVER commit these files - they contain API tokens
+.env
+*.env
+.env.*
+**/.env
+**/config.ini
+secrets.json
+credentials.json
+api_keys.txt
+
+# ============ Database Files ============
+# Database is 33MB - too large for GitHub
+# Users should set up their own database
+*.db
+*.sqlite
+*.sqlite3
+data/music_database.db
+*/data/*.db
+
+# Keep the raw JSON files (they're the source data)
+# !data/raw/*.json
+
+# ============ Python Cache & Build ============
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# ============ Virtual Environments ============
+venv/
+ENV/
+env/
+.venv
+env.bak/
+venv.bak/
+
+# ============ ML Models (Large Files) ============
+# Trained models are large - exclude them
+# Users can train their own or download separately
+*.pkl
+*.h5
+*.model
+*.joblib
+models/*.pkl
+phase3/models/*.pkl
+training/data/*.csv
+
+# Keep model definitions and training scripts
+!training/*.py
+!src/ml_*.py
+
+# ============ IDE & Editor Files ============
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.cursor/
+
+# ============ Logs & Temporary Files ============
+*.log
+logs/
+*.tmp
+*.temp
+.cache/
+.pytest_cache/
+
+# ============ OS Files ============
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# ============ Project Specific ============
+# Results and output files
+results/*.txt
+results/*.csv
+results/*.json
+phase3/results/*
+
+# Test output
+test_output/
+*.test.db
+
+# Checkpoints
+checkpoint_*.json
+*.checkpoint
+
+# ============ Keep Important Files ============
+# Make sure these are included:
+!README.md
+!requirements.txt
+!schema.sql
+!*.py
+!*.md
+

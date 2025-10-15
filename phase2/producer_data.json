@@ -1,0 +1,4016 @@
+{
+  "metadata": {
+    "description": "Billboard Hot 100 Producers (excluding ALL artist-producers)",
+    "total_producers": 323,
+    "excludes_artist_producers": true,
+    "data_source": "Billboard Hot 100 Database",
+    "filtered_out_artist_producers": 66
+  },
+  "summary": {
+    "producers_by_song_count": {
+      "1": 233,
+      "2": 56,
+      "3": 14,
+      "4": 4,
+      "5": 4,
+      "6": 6,
+      "7": 3,
+      "9": 2,
+      "11": 1
+    }
+  },
+  "producers": {
+    "1": [
+      {
+        "producer": "Adam Kasper",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "learn to fly",
+            "artist_name": "foo fighters"
+          }
+        ]
+      },
+      {
+        "producer": "Al West",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "got to get it",
+            "artist_name": "sisqo feat. make it hot"
+          }
+        ]
+      },
+      {
+        "producer": "Alan Winstanley",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "chemicals between us",
+            "artist_name": "bush"
+          }
+        ]
+      },
+      {
+        "producer": "Ali Shaheed Muhammad",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "dance tonight",
+            "artist_name": "lucy pearl"
+          }
+        ]
+      },
+      {
+        "producer": "Anders Bagge",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "this gift",
+            "artist_name": "98 degrees"
+          }
+        ]
+      },
+      {
+        "producer": "Andy Van Dorsselaer",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "don't call me baby",
+            "artist_name": "madison avenue"
+          }
+        ]
+      },
+      {
+        "producer": "Angelo Ray",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "24/7",
+            "artist_name": "kevon edmonds"
+          }
+        ]
+      },
+      {
+        "producer": "Antonina Armato",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "another dumb blonde",
+            "artist_name": "hoku"
+          }
+        ]
+      },
+      {
+        "producer": "Arion Salazar",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "deep inside of you",
+            "artist_name": "third eye blind"
+          }
+        ]
+      },
+      {
+        "producer": "Armando Colon",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "what means the world to you",
+            "artist_name": "cam'ron"
+          }
+        ]
+      },
+      {
+        "producer": "Arnthor Birgisson",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "this gift",
+            "artist_name": "98 degrees"
+          }
+        ]
+      },
+      {
+        "producer": "Art Alexakis",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "wonderful",
+            "artist_name": "everclear"
+          }
+        ]
+      },
+      {
+        "producer": "Bangladesh",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "what's your fantasy",
+            "artist_name": "ludacris feat. shawnna"
+          }
+        ]
+      },
+      {
+        "producer": "Ben Moody",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "my immortal",
+            "artist_name": "evanescence"
+          }
+        ]
+      },
+      {
+        "producer": "Biff Watson",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "kiss this",
+            "artist_name": "aaron tippin"
+          }
+        ]
+      },
+      {
+        "producer": "Bink!",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "can't go for that",
+            "artist_name": "tamia"
+          }
+        ]
+      },
+      {
+        "producer": "Black Key",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "who we be",
+            "artist_name": "dmx"
+          }
+        ]
+      },
+      {
+        "producer": "Boaz van de Beatz",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "stan",
+            "artist_name": "eminem feat. dido"
+          }
+        ]
+      },
+      {
+        "producer": "Bob Thiele",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "still on your side",
+            "artist_name": "bbmak"
+          }
+        ]
+      },
+      {
+        "producer": "Brad Young",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "girl on tv",
+            "artist_name": "lfo"
+          }
+        ]
+      },
+      {
+        "producer": "Bradley Spalter",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "liquid dreams",
+            "artist_name": "o-town"
+          }
+        ]
+      },
+      {
+        "producer": "Bret “Epic” Mazur",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "butterfly",
+            "artist_name": "crazy town"
+          }
+        ]
+      },
+      {
+        "producer": "Brian Eno",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "beautiful day",
+            "artist_name": "u2"
+          }
+        ]
+      },
+      {
+        "producer": "Brian Kierulf",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "hardest part of breaking up (is getting back your stuff)",
+            "artist_name": "2gether"
+          }
+        ]
+      },
+      {
+        "producer": "Brian “Lilz” Palmer",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "get it on tonite",
+            "artist_name": "montell jordan"
+          }
+        ]
+      },
+      {
+        "producer": "Bryan Gallimore",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "way you love me",
+            "artist_name": "faith hill"
+          }
+        ]
+      },
+      {
+        "producer": "Brycyn Evans",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "can't go for that",
+            "artist_name": "tamia"
+          }
+        ]
+      },
+      {
+        "producer": "Buckwild",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "whoa!",
+            "artist_name": "black rob"
+          }
+        ]
+      },
+      {
+        "producer": "Butch Carr",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "lessons learned",
+            "artist_name": "tracy lawrence"
+          }
+        ]
+      },
+      {
+        "producer": "Byron Hill",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "smoke rings in the dark",
+            "artist_name": "gary allan"
+          }
+        ]
+      },
+      {
+        "producer": "C-Los Beats",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "wobble wobble",
+            "artist_name": "504 boyz"
+          }
+        ]
+      },
+      {
+        "producer": "Carl Bell",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "hemorrhage (in my hands)",
+            "artist_name": "fuel"
+          }
+        ]
+      },
+      {
+        "producer": "Carlos Bess",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "cherchez laghost",
+            "artist_name": "ghostface killah"
+          }
+        ]
+      },
+      {
+        "producer": "Carson Chamberlain",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "back at one",
+            "artist_name": "mark wills"
+          }
+        ]
+      },
+      {
+        "producer": "Carvin Haggins",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "just friends (sunny)",
+            "artist_name": "musiq"
+          }
+        ]
+      },
+      {
+        "producer": "Celebrity Status",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "come on over baby (all i want is you)",
+            "artist_name": "christina aguilera"
+          }
+        ]
+      },
+      {
+        "producer": "Chad Hamilton",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "no better love",
+            "artist_name": "young gunz feat. rell"
+          }
+        ]
+      },
+      {
+        "producer": "Charlie Pennachio",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "candy",
+            "artist_name": "mandy moore"
+          }
+        ]
+      },
+      {
+        "producer": "Chris Allen",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "it feels so good",
+            "artist_name": "sonique"
+          }
+        ]
+      },
+      {
+        "producer": "Chris Stokes",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "stay the night",
+            "artist_name": "imx"
+          }
+        ]
+      },
+      {
+        "producer": "Chris Thomas",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "this time around",
+            "artist_name": "hanson"
+          }
+        ]
+      },
+      {
+        "producer": "Christian Berman",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "sexual (li da di)",
+            "artist_name": "amber"
+          }
+        ]
+      },
+      {
+        "producer": "Cindy Blackman",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "again",
+            "artist_name": "lenny kravitz"
+          }
+        ]
+      },
+      {
+        "producer": "Clive Langer",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "chemicals between us",
+            "artist_name": "bush"
+          }
+        ]
+      },
+      {
+        "producer": "Craig McClune",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "babylon",
+            "artist_name": "david gray"
+          }
+        ]
+      },
+      {
+        "producer": "Craig T. Cooper",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "baby u are",
+            "artist_name": "gerald levert"
+          }
+        ]
+      },
+      {
+        "producer": "DJ Clue",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "heartbreaker",
+            "artist_name": "mariah carey feat. jay-z"
+          }
+        ]
+      },
+      {
+        "producer": "DJ Delmundo",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "better off alone",
+            "artist_name": "alice deejay"
+          }
+        ]
+      },
+      {
+        "producer": "DJ Jurgen",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "better off alone",
+            "artist_name": "alice deejay"
+          }
+        ]
+      },
+      {
+        "producer": "DJ Premier",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "n 2 gether now",
+            "artist_name": "limp bizkit feat. method man"
+          }
+        ]
+      },
+      {
+        "producer": "Damizza",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "crybaby",
+            "artist_name": "mariah carey feat. snoop dogg"
+          }
+        ]
+      },
+      {
+        "producer": "Dane DeViller",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "mirror mirror",
+            "artist_name": "m2m"
+          }
+        ]
+      },
+      {
+        "producer": "Daniel Jones",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "i knew i loved you",
+            "artist_name": "savage garden"
+          }
+        ]
+      },
+      {
+        "producer": "Daniel Lanois",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "beautiful day",
+            "artist_name": "u2"
+          }
+        ]
+      },
+      {
+        "producer": "Danski",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "better off alone",
+            "artist_name": "alice deejay"
+          }
+        ]
+      },
+      {
+        "producer": "Daron Jones",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "it's over now",
+            "artist_name": "112"
+          }
+        ]
+      },
+      {
+        "producer": "Darrell Allamby",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "crazy",
+            "artist_name": "k-ci & jojo"
+          }
+        ]
+      },
+      {
+        "producer": "Darren Hayes",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "i knew i loved you",
+            "artist_name": "savage garden"
+          }
+        ]
+      },
+      {
+        "producer": "Darren Henson",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "no matter what they say",
+            "artist_name": "lil' kim"
+          }
+        ]
+      },
+      {
+        "producer": "David Bendeth",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "you're a god",
+            "artist_name": "vertical horizon"
+          }
+        ]
+      },
+      {
+        "producer": "David Frank",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "he loves u not",
+            "artist_name": "dream"
+          }
+        ]
+      },
+      {
+        "producer": "David Kreuger",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "crazy",
+            "artist_name": "britney spears"
+          }
+        ]
+      },
+      {
+        "producer": "David Lowery",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "hanginaround",
+            "artist_name": "counting crows"
+          }
+        ]
+      },
+      {
+        "producer": "De La Soul",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "all good?",
+            "artist_name": "de la soul feat. chaka khan"
+          }
+        ]
+      },
+      {
+        "producer": "Dennis Herring",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "hanginaround",
+            "artist_name": "counting crows"
+          }
+        ]
+      },
+      {
+        "producer": "Denzil Foster",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "riddle",
+            "artist_name": "en vogue"
+          }
+        ]
+      },
+      {
+        "producer": "Desmond Child",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "she bangs",
+            "artist_name": "ricky martin"
+          }
+        ]
+      },
+      {
+        "producer": "Dillon O’Brian",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "still on your side",
+            "artist_name": "bbmak"
+          }
+        ]
+      },
+      {
+        "producer": "Diplo",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "stan",
+            "artist_name": "eminem feat. dido"
+          }
+        ]
+      },
+      {
+        "producer": "Don Was",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "pinch me",
+            "artist_name": "barenaked ladies"
+          }
+        ]
+      },
+      {
+        "producer": "Donnie Scantz",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "i don't wanna",
+            "artist_name": "aaliyah"
+          }
+        ]
+      },
+      {
+        "producer": "Dow Brain",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "girl on tv",
+            "artist_name": "lfo"
+          }
+        ]
+      },
+      {
+        "producer": "Earthtone III",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "ms. jackson",
+            "artist_name": "outkast"
+          }
+        ]
+      },
+      {
+        "producer": "Edwin “Tony” Nicholas",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "i wanna know",
+            "artist_name": "joe"
+          }
+        ]
+      },
+      {
+        "producer": "Emilio Estefan",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "no me dejes de querer",
+            "artist_name": "gloria estefan"
+          }
+        ]
+      },
+      {
+        "producer": "Emory Gordy Jr.",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "that's the kind of mood i'm in",
+            "artist_name": "patty loveless"
+          }
+        ]
+      },
+      {
+        "producer": "Eric Foster White",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "from the bottom of my broken heart",
+            "artist_name": "britney spears"
+          }
+        ]
+      },
+      {
+        "producer": "Eric Seats",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "where my girls at?",
+            "artist_name": "702"
+          }
+        ]
+      },
+      {
+        "producer": "Eric Valentine",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "then the morning comes",
+            "artist_name": "smash mouth"
+          }
+        ]
+      },
+      {
+        "producer": "Eric Williams (90s)",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "could it be",
+            "artist_name": "jaheim"
+          }
+        ]
+      },
+      {
+        "producer": "Evan Lowenstein",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "crazy for this girl",
+            "artist_name": "evan & jaron"
+          }
+        ]
+      },
+      {
+        "producer": "F1lthy",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "all red",
+            "artist_name": "playboi carti"
+          }
+        ]
+      },
+      {
+        "producer": "Falonte Moore",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "bootylicious",
+            "artist_name": "destiny's child"
+          }
+        ]
+      },
+      {
+        "producer": "Flip Anderson",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "lessons learned",
+            "artist_name": "tracy lawrence"
+          }
+        ]
+      },
+      {
+        "producer": "Foster & McElroy",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "riddle",
+            "artist_name": "en vogue"
+          }
+        ]
+      },
+      {
+        "producer": "Frank Berman",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "sexual (li da di)",
+            "artist_name": "amber"
+          }
+        ]
+      },
+      {
+        "producer": "Fred Jerkins III",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "stay or let it go",
+            "artist_name": "brian mcknight"
+          }
+        ]
+      },
+      {
+        "producer": "Gabry Ponte",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "blue (da ba dee)",
+            "artist_name": "eiffel 65"
+          }
+        ]
+      },
+      {
+        "producer": "Garry Hughes",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "graduation (friends forever)",
+            "artist_name": "vitamin c"
+          }
+        ]
+      },
+      {
+        "producer": "Gavin Rossdale",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "chemicals between us",
+            "artist_name": "bush"
+          }
+        ]
+      },
+      {
+        "producer": "Gene Peoples",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "can't stay",
+            "artist_name": "dave hollister"
+          }
+        ]
+      },
+      {
+        "producer": "Giloh Morgan",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "dance with me",
+            "artist_name": "debelah morgan"
+          }
+        ]
+      },
+      {
+        "producer": "Glen Ballard",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "simple kind of life",
+            "artist_name": "no doubt"
+          }
+        ]
+      },
+      {
+        "producer": "Graeme Pleeth",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "it feels so good",
+            "artist_name": "sonique"
+          }
+        ]
+      },
+      {
+        "producer": "Grant",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "Tit for Tat",
+            "artist_name": "Tate McRae"
+          }
+        ]
+      },
+      {
+        "producer": "Guy Chambers",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "angels",
+            "artist_name": "robbie williams"
+          }
+        ]
+      },
+      {
+        "producer": "Heavy D",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "summer rain",
+            "artist_name": "carl thomas"
+          }
+        ]
+      },
+      {
+        "producer": "Icedrake",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "splash waterfalls",
+            "artist_name": "ludacris"
+          }
+        ]
+      },
+      {
+        "producer": "Iestyn Polston",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "babylon",
+            "artist_name": "david gray"
+          }
+        ]
+      },
+      {
+        "producer": "Ivan Barias",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "just friends (sunny)",
+            "artist_name": "musiq"
+          }
+        ]
+      },
+      {
+        "producer": "J-Dub",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "satisfy you",
+            "artist_name": "puff daddy feat. r. kelly"
+          }
+        ]
+      },
+      {
+        "producer": "J. Gary Smith",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "she's more",
+            "artist_name": "andy griggs"
+          }
+        ]
+      },
+      {
+        "producer": "Jake Schulze",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "bye bye bye",
+            "artist_name": "'n sync"
+          }
+        ]
+      },
+      {
+        "producer": "Jake and The Phatman",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "dance tonight",
+            "artist_name": "lucy pearl"
+          }
+        ]
+      },
+      {
+        "producer": "James Poyser",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "bag lady",
+            "artist_name": "erykah badu"
+          }
+        ]
+      },
+      {
+        "producer": "James “Big Jim” Wright",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "open my heart",
+            "artist_name": "yolanda adams"
+          }
+        ]
+      },
+      {
+        "producer": "Jaron Lowenstein",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "crazy for this girl",
+            "artist_name": "evan & jaron"
+          }
+        ]
+      },
+      {
+        "producer": "Jay Baumgardner",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "last resort",
+            "artist_name": "papa roach"
+          }
+        ]
+      },
+      {
+        "producer": "Jay E (USA)",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "e.i.",
+            "artist_name": "nelly"
+          }
+        ]
+      },
+      {
+        "producer": "Jay Waxx",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "it's so hard",
+            "artist_name": "big punisher feat. donell jones"
+          }
+        ]
+      },
+      {
+        "producer": "Jee Eye Zee",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "caramel",
+            "artist_name": "city high feat. eve"
+          }
+        ]
+      },
+      {
+        "producer": "Jerry Finn",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "all the small things",
+            "artist_name": "blink-182"
+          }
+        ]
+      },
+      {
+        "producer": "Jerry Harrison",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "simple kind of life",
+            "artist_name": "no doubt"
+          }
+        ]
+      },
+      {
+        "producer": "Jim Cotton",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "daddy won't sell the farm",
+            "artist_name": "montgomery gentry"
+          }
+        ]
+      },
+      {
+        "producer": "Jimmy Bralower",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "don't say you love me",
+            "artist_name": "m2m"
+          }
+        ]
+      },
+      {
+        "producer": "Jimmy Harry",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "itch",
+            "artist_name": "vitamin c"
+          }
+        ]
+      },
+      {
+        "producer": "Jimmy Pop",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "bad touch",
+            "artist_name": "bloodhound gang"
+          }
+        ]
+      },
+      {
+        "producer": "Jimmy “Professor Funk” Russell",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "we can't be friends",
+            "artist_name": "deborah cox feat. r.l."
+          }
+        ]
+      },
+      {
+        "producer": "Jive Jones",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "candy",
+            "artist_name": "mandy moore"
+          }
+        ]
+      },
+      {
+        "producer": "Joe Little III",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "mr. too damn good",
+            "artist_name": "gerald levert"
+          }
+        ]
+      },
+      {
+        "producer": "Joe Scaife",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "daddy won't sell the farm",
+            "artist_name": "montgomery gentry"
+          }
+        ]
+      },
+      {
+        "producer": "John Fields",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "crazy for this girl",
+            "artist_name": "evan & jaron"
+          }
+        ]
+      },
+      {
+        "producer": "John Shanks",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "back here",
+            "artist_name": "bbmak"
+          }
+        ]
+      },
+      {
+        "producer": "John Travis",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "only god knows why",
+            "artist_name": "kid rock"
+          }
+        ]
+      },
+      {
+        "producer": "Jon Bon Jovi",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "it's my life",
+            "artist_name": "bon jovi"
+          }
+        ]
+      },
+      {
+        "producer": "Josh Deutsch",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "graduation (friends forever)",
+            "artist_name": "vitamin c"
+          }
+        ]
+      },
+      {
+        "producer": "Joshua P. Thompson",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "liquid dreams",
+            "artist_name": "o-town"
+          }
+        ]
+      },
+      {
+        "producer": "Joshua Schwartz",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "hardest part of breaking up (is getting back your stuff)",
+            "artist_name": "2gether"
+          }
+        ]
+      },
+      {
+        "producer": "Jovonn Alexander",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "jumpin', jumpin'",
+            "artist_name": "destiny's child"
+          }
+        ]
+      },
+      {
+        "producer": "Jr.",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "still on your side",
+            "artist_name": "bbmak"
+          }
+        ]
+      },
+      {
+        "producer": "KXVI",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "bad boyz",
+            "artist_name": "shyne feat. barrington levy"
+          }
+        ]
+      },
+      {
+        "producer": "Katrina Willis",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "don't think i'm not",
+            "artist_name": "kandi"
+          }
+        ]
+      },
+      {
+        "producer": "Kay Gee",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "wifey",
+            "artist_name": "next"
+          }
+        ]
+      },
+      {
+        "producer": "Keith Thomas",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "i wanna be with you",
+            "artist_name": "mandy moore"
+          }
+        ]
+      },
+      {
+        "producer": "Kenny Rogers",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "buy me a rose",
+            "artist_name": "kenny rogers feat. alison krauss & billy dean"
+          }
+        ]
+      },
+      {
+        "producer": "Kent Lawrence",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "could it be",
+            "artist_name": "jaheim"
+          }
+        ]
+      },
+      {
+        "producer": "Kevin Deane",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "deep inside",
+            "artist_name": "mary j. blige"
+          }
+        ]
+      },
+      {
+        "producer": "Kuk Harrell",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "only girl (in the world)",
+            "artist_name": "rihanna"
+          }
+        ]
+      },
+      {
+        "producer": "Kyle West",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "where i wanna be",
+            "artist_name": "donell jones"
+          }
+        ]
+      },
+      {
+        "producer": "L.E.S.",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "bring it all to me",
+            "artist_name": "blaque"
+          }
+        ]
+      },
+      {
+        "producer": "L.T. Hutton",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "got beef",
+            "artist_name": "snoop dogg presents tha eastsidaz feat. jayo felony & blaqthoven"
+          }
+        ]
+      },
+      {
+        "producer": "Lars Fox",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "wonderful",
+            "artist_name": "everclear"
+          }
+        ]
+      },
+      {
+        "producer": "Laru Larrieux",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "get up",
+            "artist_name": "amel larrieux"
+          }
+        ]
+      },
+      {
+        "producer": "Leonard Ahlstrom",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "christmas shoes",
+            "artist_name": "newsong"
+          }
+        ]
+      },
+      {
+        "producer": "Lil Rob (USA)",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "between me and you",
+            "artist_name": "ja rule feat. christina milian"
+          }
+        ]
+      },
+      {
+        "producer": "Lucian",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "all red",
+            "artist_name": "playboi carti"
+          }
+        ]
+      },
+      {
+        "producer": "Luke Ebbin",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "it's my life",
+            "artist_name": "bon jovi"
+          }
+        ]
+      },
+      {
+        "producer": "Lukrative",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "all red",
+            "artist_name": "playboi carti"
+          }
+        ]
+      },
+      {
+        "producer": "MK",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "monica",
+            "artist_name": "before dark"
+          }
+        ]
+      },
+      {
+        "producer": "Manuel Seal",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "give me you",
+            "artist_name": "mary j. blige"
+          }
+        ]
+      },
+      {
+        "producer": "Marc Russell",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "love don't cost a thing",
+            "artist_name": "jennifer lopez"
+          }
+        ]
+      },
+      {
+        "producer": "Mark Endert",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "you're a god",
+            "artist_name": "vertical horizon"
+          }
+        ]
+      },
+      {
+        "producer": "Matt Scannell",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "you're a god",
+            "artist_name": "vertical horizon"
+          }
+        ]
+      },
+      {
+        "producer": "Matthew Wilder",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "simple kind of life",
+            "artist_name": "no doubt"
+          }
+        ]
+      },
+      {
+        "producer": "Maury",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "blue (da ba dee)",
+            "artist_name": "eiffel 65"
+          }
+        ]
+      },
+      {
+        "producer": "Melvin “Hip” Armstead",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "who we be",
+            "artist_name": "dmx"
+          }
+        ]
+      },
+      {
+        "producer": "Michael Ehninger",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "nastradamus",
+            "artist_name": "nas"
+          }
+        ]
+      },
+      {
+        "producer": "Michael Kamen",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "no leaf clover",
+            "artist_name": "metallica"
+          }
+        ]
+      },
+      {
+        "producer": "Michael Penn",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "sleepwalker",
+            "artist_name": "wallflowers"
+          }
+        ]
+      },
+      {
+        "producer": "Mike Bradley",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "kiss this",
+            "artist_name": "aaron tippin"
+          }
+        ]
+      },
+      {
+        "producer": "Mike Elizondo",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "set up",
+            "artist_name": "obie trice feat. nate dogg"
+          }
+        ]
+      },
+      {
+        "producer": "Mike “Hank” Mangini",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "who let the dogs out",
+            "artist_name": "baha men"
+          }
+        ]
+      },
+      {
+        "producer": "Moby",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "south side",
+            "artist_name": "moby feat. gwen stefani"
+          }
+        ]
+      },
+      {
+        "producer": "Montell Jordan",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "we can't be friends",
+            "artist_name": "deborah cox feat. r.l."
+          }
+        ]
+      },
+      {
+        "producer": "Mumble C",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "steal my sunshine",
+            "artist_name": "len"
+          }
+        ]
+      },
+      {
+        "producer": "Nadeem’s Studio",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "always on time",
+            "artist_name": "ja rule feat. ashanti"
+          }
+        ]
+      },
+      {
+        "producer": "Nathan “Love” Clemons",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "give me you",
+            "artist_name": "mary j. blige"
+          }
+        ]
+      },
+      {
+        "producer": "Neal Avron",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "wonderful",
+            "artist_name": "everclear"
+          }
+        ]
+      },
+      {
+        "producer": "Ojivolta",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "all red",
+            "artist_name": "playboi carti"
+          }
+        ]
+      },
+      {
+        "producer": "Ole Evenrude",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "dancing queen",
+            "artist_name": "a*teens"
+          }
+        ]
+      },
+      {
+        "producer": "Oliver Leiber",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "back here",
+            "artist_name": "bbmak"
+          }
+        ]
+      },
+      {
+        "producer": "One Eye",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "you can do it",
+            "artist_name": "ice cube feat. mack 10 & ms. toi"
+          }
+        ]
+      },
+      {
+        "producer": "P Killer Trackz",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "love is blind",
+            "artist_name": "eve feat. faith evans"
+          }
+        ]
+      },
+      {
+        "producer": "P. Skam",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "anything",
+            "artist_name": "jay-z"
+          }
+        ]
+      },
+      {
+        "producer": "PAJAM",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "you should've told me",
+            "artist_name": "kelly price"
+          }
+        ]
+      },
+      {
+        "producer": "Pat McCarthy",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "great beyond",
+            "artist_name": "r.e.m."
+          }
+        ]
+      },
+      {
+        "producer": "Patrick Leonard",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "someday out of the blue",
+            "artist_name": "elton john"
+          }
+        ]
+      },
+      {
+        "producer": "Per Magnusson",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "crazy",
+            "artist_name": "britney spears"
+          }
+        ]
+      },
+      {
+        "producer": "Peter Zizzo",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "don't say you love me",
+            "artist_name": "m2m"
+          }
+        ]
+      },
+      {
+        "producer": "Platinum Status",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "stay the night",
+            "artist_name": "imx"
+          }
+        ]
+      },
+      {
+        "producer": "Pronti & Kalmani",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "better off alone",
+            "artist_name": "alice deejay"
+          }
+        ]
+      },
+      {
+        "producer": "Ramon Zenker",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "toca's miracle",
+            "artist_name": "fragma"
+          }
+        ]
+      },
+      {
+        "producer": "Rapture Stewart",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "where my girls at?",
+            "artist_name": "702"
+          }
+        ]
+      },
+      {
+        "producer": "Rich Cronin",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "girl on tv",
+            "artist_name": "lfo"
+          }
+        ]
+      },
+      {
+        "producer": "Richard Marx",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "this i promise you",
+            "artist_name": "'n sync"
+          }
+        ]
+      },
+      {
+        "producer": "Richard Patrick",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "take a picture",
+            "artist_name": "filter"
+          }
+        ]
+      },
+      {
+        "producer": "Richie Sambora",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "it's my life",
+            "artist_name": "bon jovi"
+          }
+        ]
+      },
+      {
+        "producer": "Richie Zito",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "change your mind",
+            "artist_name": "sister hazel"
+          }
+        ]
+      },
+      {
+        "producer": "Rick Parashar",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "how you remind me",
+            "artist_name": "nickelback"
+          }
+        ]
+      },
+      {
+        "producer": "Righteous Funk Boogie",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "pull over",
+            "artist_name": "trina"
+          }
+        ]
+      },
+      {
+        "producer": "Robert Wright",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "my love goes on and on",
+            "artist_name": "chris cagle"
+          }
+        ]
+      },
+      {
+        "producer": "Roberto Blades",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "no me dejes de querer",
+            "artist_name": "gloria estefan"
+          }
+        ]
+      },
+      {
+        "producer": "Roy “Royalty” Hamilton",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "stutter",
+            "artist_name": "joe feat. mystikal"
+          }
+        ]
+      },
+      {
+        "producer": "Ryan Tedder",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "Tit for Tat",
+            "artist_name": "Tate McRae"
+          }
+        ]
+      },
+      {
+        "producer": "Ryan Toby",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "caramel",
+            "artist_name": "city high feat. eve"
+          }
+        ]
+      },
+      {
+        "producer": "Sam Sneed",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "anything",
+            "artist_name": "jay-z"
+          }
+        ]
+      },
+      {
+        "producer": "Sandy Vee",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "only girl (in the world)",
+            "artist_name": "rihanna"
+          }
+        ]
+      },
+      {
+        "producer": "Scott Hendricks",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "hot mama",
+            "artist_name": "trace adkins"
+          }
+        ]
+      },
+      {
+        "producer": "Scott Storch",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "x",
+            "artist_name": "xzibit"
+          }
+        ]
+      },
+      {
+        "producer": "Sean Hosein",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "mirror mirror",
+            "artist_name": "m2m"
+          }
+        ]
+      },
+      {
+        "producer": "Sean “Sep” Hall",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "no more (baby i'ma do right)",
+            "artist_name": "3lw"
+          }
+        ]
+      },
+      {
+        "producer": "Sedeck",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "911",
+            "artist_name": "wyclef jean feat. mary j. blige"
+          }
+        ]
+      },
+      {
+        "producer": "Self Service",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "what's my name",
+            "artist_name": "dmx"
+          }
+        ]
+      },
+      {
+        "producer": "Sergio “PLX” Moore",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "get it on tonite",
+            "artist_name": "montell jordan"
+          }
+        ]
+      },
+      {
+        "producer": "Shawty Redd",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "left, right, left",
+            "artist_name": "drama"
+          }
+        ]
+      },
+      {
+        "producer": "Simon Belofsky",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "it feels so good",
+            "artist_name": "sonique"
+          }
+        ]
+      },
+      {
+        "producer": "Sisqó",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "thong song",
+            "artist_name": "sisqo"
+          }
+        ]
+      },
+      {
+        "producer": "Stan Lynch",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "taking you home",
+            "artist_name": "don henley"
+          }
+        ]
+      },
+      {
+        "producer": "Steuart Smith",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "little gasoline",
+            "artist_name": "terri clark"
+          }
+        ]
+      },
+      {
+        "producer": "Steve Greenberg",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "who let the dogs out",
+            "artist_name": "baha men"
+          }
+        ]
+      },
+      {
+        "producer": "Steve Kipner",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "he loves u not",
+            "artist_name": "dream"
+          }
+        ]
+      },
+      {
+        "producer": "Steve Lunt",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "aaron's party (come get it)",
+            "artist_name": "aaron carter"
+          }
+        ]
+      },
+      {
+        "producer": "Steve Power",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "angels",
+            "artist_name": "robbie williams"
+          }
+        ]
+      },
+      {
+        "producer": "Steve Taylor",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "there she goes",
+            "artist_name": "sixpence none the richer"
+          }
+        ]
+      },
+      {
+        "producer": "Sören Hild",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "nastradamus",
+            "artist_name": "nas"
+          }
+        ]
+      },
+      {
+        "producer": "Talla 2XLC",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "toca's miracle",
+            "artist_name": "fragma"
+          }
+        ]
+      },
+      {
+        "producer": "Tchad Blake",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "nothing as it seems",
+            "artist_name": "pearl jam"
+          }
+        ]
+      },
+      {
+        "producer": "Teddy Bishop",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "just be a man about it",
+            "artist_name": "toni braxton"
+          }
+        ]
+      },
+      {
+        "producer": "Teflon (Producer)",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "got it all",
+            "artist_name": "eve & jadakiss"
+          }
+        ]
+      },
+      {
+        "producer": "The Wasabees",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "candy",
+            "artist_name": "mandy moore"
+          }
+        ]
+      },
+      {
+        "producer": "The 45 King",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "stan",
+            "artist_name": "eminem feat. dido"
+          }
+        ]
+      },
+      {
+        "producer": "Thomas McElroy",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "riddle",
+            "artist_name": "en vogue"
+          }
+        ]
+      },
+      {
+        "producer": "Thomas Spitzer",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "nastradamus",
+            "artist_name": "nas"
+          }
+        ]
+      },
+      {
+        "producer": "Tim & Bob",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "thong song",
+            "artist_name": "sisqo"
+          }
+        ]
+      },
+      {
+        "producer": "Tony Isaac",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "stay the night",
+            "artist_name": "imx"
+          }
+        ]
+      },
+      {
+        "producer": "Trevor Guthrie",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "faded",
+            "artist_name": "souldecision feat. thrust"
+          }
+        ]
+      },
+      {
+        "producer": "Trevor Horn",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "can't fight the moonlight",
+            "artist_name": "leann rimes"
+          }
+        ]
+      },
+      {
+        "producer": "Twisco",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "all red",
+            "artist_name": "playboi carti"
+          }
+        ]
+      },
+      {
+        "producer": "Wesley Hogges",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "could it be",
+            "artist_name": "jaheim"
+          }
+        ]
+      },
+      {
+        "producer": "William Orbit",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "american pie",
+            "artist_name": "madonna"
+          }
+        ]
+      },
+      {
+        "producer": "Wyatt Sanders",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "stan",
+            "artist_name": "eminem feat. dido"
+          }
+        ]
+      },
+      {
+        "producer": "Y.Chale",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "rollin'",
+            "artist_name": "limp bizkit"
+          }
+        ]
+      },
+      {
+        "producer": "Younglord",
+        "song_count": 1,
+        "songs": [
+          {
+            "song_name": "it's so hard",
+            "artist_name": "big punisher feat. donell jones"
+          }
+        ]
+      }
+    ],
+    "2": [
+      {
+        "producer": "Allen Reynolds",
+        "song_count": 2,
+        "songs": [
+          {
+            "song_name": "wild horses",
+            "artist_name": "garth brooks"
+          },
+          {
+            "song_name": "do what you gotta do",
+            "artist_name": "garth brooks"
+          }
+        ]
+      },
+      {
+        "producer": "Andrew Slater",
+        "song_count": 2,
+        "songs": [
+          {
+            "song_name": "sleepwalker",
+            "artist_name": "wallflowers"
+          },
+          {
+            "song_name": "i try",
+            "artist_name": "macy gray"
+          }
+        ]
+      },
+      {
+        "producer": "Babyface",
+        "song_count": 2,
+        "songs": [
+          {
+            "song_name": "dear lie",
+            "artist_name": "tlc"
+          },
+          {
+            "song_name": "most girls",
+            "artist_name": "p!nk"
+          }
+        ]
+      },
+      {
+        "producer": "Ben Grosse",
+        "song_count": 2,
+        "songs": [
+          {
+            "song_name": "hemorrhage (in my hands)",
+            "artist_name": "fuel"
+          },
+          {
+            "song_name": "take a picture",
+            "artist_name": "filter"
+          }
+        ]
+      },
+      {
+        "producer": "Billy Joe Walker Jr.",
+        "song_count": 2,
+        "songs": [
+          {
+            "song_name": "best of intentions",
+            "artist_name": "travis tritt"
+          },
+          {
+            "song_name": "put your hand in mine",
+            "artist_name": "tracy byrd"
+          }
+        ]
+      },
+      {
+        "producer": "Bob Rock",
+        "song_count": 2,
+        "songs": [
+          {
+            "song_name": "no leaf clover",
+            "artist_name": "metallica"
+          },
+          {
+            "song_name": "i disappear",
+            "artist_name": "metallica"
+          }
+        ]
+      },
+      {
+        "producer": "Chad Elliott",
+        "song_count": 2,
+        "songs": [
+          {
+            "song_name": "jumpin', jumpin'",
+            "artist_name": "destiny's child"
+          },
+          {
+            "song_name": "15 minutes",
+            "artist_name": "marc nelson"
+          }
+        ]
+      },
+      {
+        "producer": "DJ Cipha Sounds",
+        "song_count": 2,
+        "songs": [
+          {
+            "song_name": "do it again (put ya hands up)",
+            "artist_name": "jay-z feat. beanie sigel & amil"
+          },
+          {
+            "song_name": "notorious b.i.g.",
+            "artist_name": "notorious b.i.g. feat. puff daddy & lil' kim"
+          }
+        ]
+      },
+      {
+        "producer": "Dallas Austin",
+        "song_count": 2,
+        "songs": [
+          {
+            "song_name": "unpretty",
+            "artist_name": "tlc"
+          },
+          {
+            "song_name": "i like it",
+            "artist_name": "sammie"
+          }
+        ]
+      },
+      {
+        "producer": "Dan Shea",
+        "song_count": 2,
+        "songs": [
+          {
+            "song_name": "my baby you",
+            "artist_name": "marc anthony"
+          },
+          {
+            "song_name": "i think i'm in love with you",
+            "artist_name": "jessica simpson"
+          }
+        ]
+      },
+      {
+        "producer": "David Kahne",
+        "song_count": 2,
+        "songs": [
+          {
+            "song_name": "falls apart",
+            "artist_name": "sugar ray"
+          },
+          {
+            "song_name": "someday",
+            "artist_name": "sugar ray"
+          }
+        ]
+      },
+      {
+        "producer": "Don Cook",
+        "song_count": 2,
+        "songs": [
+          {
+            "song_name": "oklahoma",
+            "artist_name": "billy gilman"
+          },
+          {
+            "song_name": "one voice",
+            "artist_name": "billy gilman"
+          }
+        ]
+      },
+      {
+        "producer": "Donald Fact",
+        "song_count": 2,
+        "songs": [
+          {
+            "song_name": "tricky, tricky",
+            "artist_name": "lou bega"
+          },
+          {
+            "song_name": "mambo no. 5 (a little bit of...)",
+            "artist_name": "lou bega"
+          }
+        ]
+      },
+      {
+        "producer": "Doug Johnson",
+        "song_count": 2,
+        "songs": [
+          {
+            "song_name": "live, laugh, love",
+            "artist_name": "clay walker"
+          },
+          {
+            "song_name": "chain of love",
+            "artist_name": "clay walker"
+          }
+        ]
+      },
+      {
+        "producer": "Draco Rosa",
+        "song_count": 2,
+        "songs": [
+          {
+            "song_name": "shake your bon-bon",
+            "artist_name": "ricky martin"
+          },
+          {
+            "song_name": "she bangs",
+            "artist_name": "ricky martin"
+          }
+        ]
+      },
+      {
+        "producer": "D’Angelo",
+        "song_count": 2,
+        "songs": [
+          {
+            "song_name": "untitled (how does it feel)",
+            "artist_name": "d'angelo"
+          },
+          {
+            "song_name": "left & right",
+            "artist_name": "d'angelo feat. method man & redman"
+          }
+        ]
+      },
+      {
+        "producer": "Frank Lio",
+        "song_count": 2,
+        "songs": [
+          {
+            "song_name": "tricky, tricky",
+            "artist_name": "lou bega"
+          },
+          {
+            "song_name": "mambo no. 5 (a little bit of...)",
+            "artist_name": "lou bega"
+          }
+        ]
+      },
+      {
+        "producer": "Garth Fundis",
+        "song_count": 2,
+        "songs": [
+          {
+            "song_name": "home to you",
+            "artist_name": "john michael montgomery"
+          },
+          {
+            "song_name": "real live woman",
+            "artist_name": "trisha yearwood"
+          }
+        ]
+      },
+      {
+        "producer": "George Noriega",
+        "song_count": 2,
+        "songs": [
+          {
+            "song_name": "shake your bon-bon",
+            "artist_name": "ricky martin"
+          },
+          {
+            "song_name": "no me dejes de querer",
+            "artist_name": "gloria estefan"
+          }
+        ]
+      },
+      {
+        "producer": "Goar B",
+        "song_count": 2,
+        "songs": [
+          {
+            "song_name": "tricky, tricky",
+            "artist_name": "lou bega"
+          },
+          {
+            "song_name": "mambo no. 5 (a little bit of...)",
+            "artist_name": "lou bega"
+          }
+        ]
+      },
+      {
+        "producer": "Guy Roche",
+        "song_count": 2,
+        "songs": [
+          {
+            "song_name": "what a girl wants",
+            "artist_name": "christina aguilera"
+          },
+          {
+            "song_name": "i turn to you",
+            "artist_name": "christina aguilera"
+          }
+        ]
+      },
+      {
+        "producer": "Irv Gotti",
+        "song_count": 2,
+        "songs": [
+          {
+            "song_name": "what's my name",
+            "artist_name": "dmx"
+          },
+          {
+            "song_name": "between me and you",
+            "artist_name": "ja rule feat. christina milian"
+          }
+        ]
+      },
+      {
+        "producer": "James Hetfield",
+        "song_count": 2,
+        "songs": [
+          {
+            "song_name": "no leaf clover",
+            "artist_name": "metallica"
+          },
+          {
+            "song_name": "i disappear",
+            "artist_name": "metallica"
+          }
+        ]
+      },
+      {
+        "producer": "Janet Jackson",
+        "song_count": 2,
+        "songs": [
+          {
+            "song_name": "all for you",
+            "artist_name": "janet"
+          },
+          {
+            "song_name": "doesn't really matter",
+            "artist_name": "janet"
+          }
+        ]
+      },
+      {
+        "producer": "Jimmy Jam",
+        "song_count": 2,
+        "songs": [
+          {
+            "song_name": "thank god i found you",
+            "artist_name": "mariah carey feat. joe & 98 degrees"
+          },
+          {
+            "song_name": "doesn't really matter",
+            "artist_name": "janet"
+          }
+        ]
+      },
+      {
+        "producer": "Jimmy Jam & Terry Lewis",
+        "song_count": 2,
+        "songs": [
+          {
+            "song_name": "best man i can be",
+            "artist_name": "ginuwine, r.l., tyrese, case"
+          },
+          {
+            "song_name": "open my heart",
+            "artist_name": "yolanda adams"
+          }
+        ]
+      },
+      {
+        "producer": "John Kurzweg",
+        "song_count": 2,
+        "songs": [
+          {
+            "song_name": "with arms wide open",
+            "artist_name": "creed"
+          },
+          {
+            "song_name": "higher",
+            "artist_name": "creed"
+          }
+        ]
+      },
+      {
+        "producer": "J Dilla",
+        "song_count": 2,
+        "songs": [
+          {
+            "song_name": "breathe and stop",
+            "artist_name": "q-tip"
+          },
+          {
+            "song_name": "light",
+            "artist_name": "common"
+          }
+        ]
+      },
+      {
+        "producer": "Kevin Hicks",
+        "song_count": 2,
+        "songs": [
+          {
+            "song_name": "get gone",
+            "artist_name": "ideal"
+          },
+          {
+            "song_name": "i don't wanna",
+            "artist_name": "aaliyah"
+          }
+        ]
+      },
+      {
+        "producer": "Lars Ulrich",
+        "song_count": 2,
+        "songs": [
+          {
+            "song_name": "no leaf clover",
+            "artist_name": "metallica"
+          },
+          {
+            "song_name": "i disappear",
+            "artist_name": "metallica"
+          }
+        ]
+      },
+      {
+        "producer": "Mark Bright",
+        "song_count": 2,
+        "songs": [
+          {
+            "song_name": "this everyday love",
+            "artist_name": "rascal flatts"
+          },
+          {
+            "song_name": "prayin' for daylight",
+            "artist_name": "rascal flatts"
+          }
+        ]
+      },
+      {
+        "producer": "Marty Williams",
+        "song_count": 2,
+        "songs": [
+          {
+            "song_name": "this everyday love",
+            "artist_name": "rascal flatts"
+          },
+          {
+            "song_name": "prayin' for daylight",
+            "artist_name": "rascal flatts"
+          }
+        ]
+      },
+      {
+        "producer": "Matt Rollings",
+        "song_count": 2,
+        "songs": [
+          {
+            "song_name": "but for the grace of god",
+            "artist_name": "keith urban"
+          },
+          {
+            "song_name": "your everything",
+            "artist_name": "keith urban"
+          }
+        ]
+      },
+      {
+        "producer": "Matt Serletic",
+        "song_count": 2,
+        "songs": [
+          {
+            "song_name": "bent",
+            "artist_name": "matchbox twenty"
+          },
+          {
+            "song_name": "if you're gone",
+            "artist_name": "matchbox twenty"
+          }
+        ]
+      },
+      {
+        "producer": "Mel-Man",
+        "song_count": 2,
+        "songs": [
+          {
+            "song_name": "real slim shady",
+            "artist_name": "eminem"
+          },
+          {
+            "song_name": "x",
+            "artist_name": "xzibit"
+          }
+        ]
+      },
+      {
+        "producer": "Mike City",
+        "song_count": 2,
+        "songs": [
+          {
+            "song_name": "one woman man",
+            "artist_name": "dave hollister"
+          },
+          {
+            "song_name": "i wish",
+            "artist_name": "carl thomas"
+          }
+        ]
+      },
+      {
+        "producer": "Mirwais Ahmadzaï",
+        "song_count": 2,
+        "songs": [
+          {
+            "song_name": "music",
+            "artist_name": "madonna"
+          },
+          {
+            "song_name": "don't tell me",
+            "artist_name": "madonna"
+          }
+        ]
+      },
+      {
+        "producer": "Nick DiDia",
+        "song_count": 2,
+        "songs": [
+          {
+            "song_name": "absolutely (story of a girl)",
+            "artist_name": "nine days"
+          },
+          {
+            "song_name": "if i am",
+            "artist_name": "nine days"
+          }
+        ]
+      },
+      {
+        "producer": "Raphael Saadiq",
+        "song_count": 2,
+        "songs": [
+          {
+            "song_name": "dance tonight",
+            "artist_name": "lucy pearl"
+          },
+          {
+            "song_name": "untitled (how does it feel)",
+            "artist_name": "d'angelo"
+          }
+        ]
+      },
+      {
+        "producer": "Ric Wake",
+        "song_count": 2,
+        "songs": [
+          {
+            "song_name": "waiting for tonight",
+            "artist_name": "jennifer lopez"
+          },
+          {
+            "song_name": "love don't cost a thing",
+            "artist_name": "jennifer lopez"
+          }
+        ]
+      },
+      {
+        "producer": "Richie Jones",
+        "song_count": 2,
+        "songs": [
+          {
+            "song_name": "waiting for tonight",
+            "artist_name": "jennifer lopez"
+          },
+          {
+            "song_name": "love don't cost a thing",
+            "artist_name": "jennifer lopez"
+          }
+        ]
+      },
+      {
+        "producer": "Rick Rubin",
+        "song_count": 2,
+        "songs": [
+          {
+            "song_name": "otherside",
+            "artist_name": "red hot chili peppers"
+          },
+          {
+            "song_name": "californication",
+            "artist_name": "red hot chili peppers"
+          }
+        ]
+      },
+      {
+        "producer": "Rob Cavallo",
+        "song_count": 2,
+        "songs": [
+          {
+            "song_name": "broadway",
+            "artist_name": "goo goo dolls"
+          },
+          {
+            "song_name": "black balloon",
+            "artist_name": "goo goo dolls"
+          }
+        ]
+      },
+      {
+        "producer": "Ron Fair",
+        "song_count": 2,
+        "songs": [
+          {
+            "song_name": "lady marmalade",
+            "artist_name": "christina aguilera, lil' kim, mya & p!nk"
+          },
+          {
+            "song_name": "come on over baby (all i want is you)",
+            "artist_name": "christina aguilera"
+          }
+        ]
+      },
+      {
+        "producer": "Soulshock & Karlin",
+        "song_count": 2,
+        "songs": [
+          {
+            "song_name": "still in my heart",
+            "artist_name": "tracie spencer"
+          },
+          {
+            "song_name": "baby don't cry (keep ya head up ii)",
+            "artist_name": "2pac + outlawz"
+          }
+        ]
+      },
+      {
+        "producer": "Stargate",
+        "song_count": 2,
+        "songs": [
+          {
+            "song_name": "only girl (in the world)",
+            "artist_name": "rihanna"
+          },
+          {
+            "song_name": "so in love with two",
+            "artist_name": "mikaila"
+          }
+        ]
+      },
+      {
+        "producer": "Stephan Jenkins",
+        "song_count": 2,
+        "songs": [
+          {
+            "song_name": "never let you go",
+            "artist_name": "third eye blind"
+          },
+          {
+            "song_name": "deep inside of you",
+            "artist_name": "third eye blind"
+          }
+        ]
+      },
+      {
+        "producer": "Steve Mac",
+        "song_count": 2,
+        "songs": [
+          {
+            "song_name": "aaron's party (come get it)",
+            "artist_name": "aaron carter"
+          },
+          {
+            "song_name": "swear it again",
+            "artist_name": "westlife"
+          }
+        ]
+      },
+      {
+        "producer": "Teddy Riley",
+        "song_count": 2,
+        "songs": [
+          {
+            "song_name": "dancin'",
+            "artist_name": "guy"
+          },
+          {
+            "song_name": "liar",
+            "artist_name": "profyle"
+          }
+        ]
+      },
+      {
+        "producer": "Terry Date",
+        "song_count": 2,
+        "songs": [
+          {
+            "song_name": "re-arranged",
+            "artist_name": "limp bizkit"
+          },
+          {
+            "song_name": "n 2 gether now",
+            "artist_name": "limp bizkit feat. method man"
+          }
+        ]
+      },
+      {
+        "producer": "Terry Lewis",
+        "song_count": 2,
+        "songs": [
+          {
+            "song_name": "thank god i found you",
+            "artist_name": "mariah carey feat. joe & 98 degrees"
+          },
+          {
+            "song_name": "doesn't really matter",
+            "artist_name": "janet"
+          }
+        ]
+      },
+      {
+        "producer": "The Goo Goo Dolls",
+        "song_count": 2,
+        "songs": [
+          {
+            "song_name": "broadway",
+            "artist_name": "goo goo dolls"
+          },
+          {
+            "song_name": "black balloon",
+            "artist_name": "goo goo dolls"
+          }
+        ]
+      },
+      {
+        "producer": "Trey Bruce",
+        "song_count": 2,
+        "songs": [
+          {
+            "song_name": "hot mama",
+            "artist_name": "trace adkins"
+          },
+          {
+            "song_name": "more",
+            "artist_name": "trace adkins"
+          }
+        ]
+      },
+      {
+        "producer": "Tricky Stewart",
+        "song_count": 2,
+        "songs": [
+          {
+            "song_name": "case of the ex (whatcha gonna do)",
+            "artist_name": "mya"
+          },
+          {
+            "song_name": "if you don't wanna love me",
+            "artist_name": "tamar braxton"
+          }
+        ]
+      },
+      {
+        "producer": "Wilbur C. Rimes",
+        "song_count": 2,
+        "songs": [
+          {
+            "song_name": "i need you",
+            "artist_name": "leann rimes"
+          },
+          {
+            "song_name": "big deal",
+            "artist_name": "leann rimes"
+          }
+        ]
+      },
+      {
+        "producer": "Wyclef Jean",
+        "song_count": 2,
+        "songs": [
+          {
+            "song_name": "my love is your love",
+            "artist_name": "whitney houston"
+          },
+          {
+            "song_name": "911",
+            "artist_name": "wyclef jean feat. mary j. blige"
+          }
+        ]
+      }
+    ],
+    "3": [
+      {
+        "producer": "BAG & Arnthor",
+        "song_count": 3,
+        "songs": [
+          {
+            "song_name": "gotta tell you",
+            "artist_name": "samantha mumba"
+          },
+          {
+            "song_name": "give me just one night (una noche)",
+            "artist_name": "98 degrees"
+          },
+          {
+            "song_name": "my everything",
+            "artist_name": "98 degrees"
+          }
+        ]
+      },
+      {
+        "producer": "Brian Rawling",
+        "song_count": 3,
+        "songs": [
+          {
+            "song_name": "be with you",
+            "artist_name": "enrique iglesias"
+          },
+          {
+            "song_name": "rhythm divine",
+            "artist_name": "enrique iglesias"
+          },
+          {
+            "song_name": "i will love again",
+            "artist_name": "lara fabian"
+          }
+        ]
+      },
+      {
+        "producer": "DJ Eddie F",
+        "song_count": 3,
+        "songs": [
+          {
+            "song_name": "dancin'",
+            "artist_name": "guy"
+          },
+          {
+            "song_name": "no more",
+            "artist_name": "ruff endz"
+          },
+          {
+            "song_name": "u know what's up",
+            "artist_name": "donell jones"
+          }
+        ]
+      },
+      {
+        "producer": "Darren Lighty",
+        "song_count": 3,
+        "songs": [
+          {
+            "song_name": "dancin'",
+            "artist_name": "guy"
+          },
+          {
+            "song_name": "no more",
+            "artist_name": "ruff endz"
+          },
+          {
+            "song_name": "u know what's up",
+            "artist_name": "donell jones"
+          }
+        ]
+      },
+      {
+        "producer": "David Malloy",
+        "song_count": 3,
+        "songs": [
+          {
+            "song_name": "oklahoma",
+            "artist_name": "billy gilman"
+          },
+          {
+            "song_name": "what do you say",
+            "artist_name": "reba"
+          },
+          {
+            "song_name": "she's more",
+            "artist_name": "andy griggs"
+          }
+        ]
+      },
+      {
+        "producer": "Jerry Duplessis",
+        "song_count": 3,
+        "songs": [
+          {
+            "song_name": "caramel",
+            "artist_name": "city high feat. eve"
+          },
+          {
+            "song_name": "my love is your love",
+            "artist_name": "whitney houston"
+          },
+          {
+            "song_name": "911",
+            "artist_name": "wyclef jean feat. mary j. blige"
+          }
+        ]
+      },
+      {
+        "producer": "Mario Winans",
+        "song_count": 3,
+        "songs": [
+          {
+            "song_name": "how many licks?",
+            "artist_name": "lil' kim feat. sisqo"
+          },
+          {
+            "song_name": "emotional",
+            "artist_name": "carl thomas"
+          },
+          {
+            "song_name": "best friend",
+            "artist_name": "puff daddy feat. mario winans & hezekiah walker & the love fe"
+          }
+        ]
+      },
+      {
+        "producer": "Mark Taylor",
+        "song_count": 3,
+        "songs": [
+          {
+            "song_name": "be with you",
+            "artist_name": "enrique iglesias"
+          },
+          {
+            "song_name": "rhythm divine",
+            "artist_name": "enrique iglesias"
+          },
+          {
+            "song_name": "i will love again",
+            "artist_name": "lara fabian"
+          }
+        ]
+      },
+      {
+        "producer": "Mark Wright",
+        "song_count": 3,
+        "songs": [
+          {
+            "song_name": "smoke rings in the dark",
+            "artist_name": "gary allan"
+          },
+          {
+            "song_name": "ashes by now",
+            "artist_name": "lee ann womack"
+          },
+          {
+            "song_name": "i hope you dance",
+            "artist_name": "lee ann womack"
+          }
+        ]
+      },
+      {
+        "producer": "Paul Ebersold",
+        "song_count": 3,
+        "songs": [
+          {
+            "song_name": "change your mind",
+            "artist_name": "sister hazel"
+          },
+          {
+            "song_name": "kryptonite",
+            "artist_name": "3 doors down"
+          },
+          {
+            "song_name": "loser",
+            "artist_name": "3 doors down"
+          }
+        ]
+      },
+      {
+        "producer": "Rockwilder",
+        "song_count": 3,
+        "songs": [
+          {
+            "song_name": "imagine that",
+            "artist_name": "ll cool j"
+          },
+          {
+            "song_name": "lady marmalade",
+            "artist_name": "christina aguilera, lil' kim, mya & p!nk"
+          },
+          {
+            "song_name": "oh no",
+            "artist_name": "mos def & pharoahe monch feat. nate dogg"
+          }
+        ]
+      },
+      {
+        "producer": "Steve “Stone” Huff",
+        "song_count": 3,
+        "songs": [
+          {
+            "song_name": "my first love",
+            "artist_name": "avant feat. keke wyatt"
+          },
+          {
+            "song_name": "treat her like a lady",
+            "artist_name": "joe"
+          },
+          {
+            "song_name": "separated",
+            "artist_name": "avant"
+          }
+        ]
+      },
+      {
+        "producer": "The Runaways (Production Team)",
+        "song_count": 3,
+        "songs": [
+          {
+            "song_name": "i wanna love you forever",
+            "artist_name": "jessica simpson"
+          },
+          {
+            "song_name": "i'm outta love",
+            "artist_name": "anastacia"
+          },
+          {
+            "song_name": "where you are",
+            "artist_name": "jessica simpson feat. nick lachey"
+          }
+        ]
+      },
+      {
+        "producer": "Warryn Campbell",
+        "song_count": 3,
+        "songs": [
+          {
+            "song_name": "shackles (praise you)",
+            "artist_name": "mary mary"
+          },
+          {
+            "song_name": "summer rain",
+            "artist_name": "carl thomas"
+          },
+          {
+            "song_name": "i know",
+            "artist_name": "sunday"
+          }
+        ]
+      }
+    ],
+    "4": [
+      {
+        "producer": "Brendan O’Brien",
+        "song_count": 4,
+        "songs": [
+          {
+            "song_name": "original prankster",
+            "artist_name": "offspring"
+          },
+          {
+            "song_name": "megalomaniac",
+            "artist_name": "incubus"
+          },
+          {
+            "song_name": "guerrilla radio",
+            "artist_name": "rage against the machine"
+          },
+          {
+            "song_name": "sour girl",
+            "artist_name": "stone temple pilots"
+          }
+        ]
+      },
+      {
+        "producer": "David Foster",
+        "song_count": 4,
+        "songs": [
+          {
+            "song_name": "music of my heart",
+            "artist_name": "'n sync & gloria estefan"
+          },
+          {
+            "song_name": "spanish guitar",
+            "artist_name": "toni braxton"
+          },
+          {
+            "song_name": "could i have this kiss forever",
+            "artist_name": "whitney houston & enrique iglesias"
+          },
+          {
+            "song_name": "i learned from the best",
+            "artist_name": "whitney houston"
+          }
+        ]
+      },
+      {
+        "producer": "Frank Rogers",
+        "song_count": 4,
+        "songs": [
+          {
+            "song_name": "he didn't have to be",
+            "artist_name": "brad paisley"
+          },
+          {
+            "song_name": "we danced",
+            "artist_name": "brad paisley"
+          },
+          {
+            "song_name": "when you need my love",
+            "artist_name": "darryl worley"
+          },
+          {
+            "song_name": "me neither",
+            "artist_name": "brad paisley"
+          }
+        ]
+      },
+      {
+        "producer": "Kevin “She’kspere” Briggs",
+        "song_count": 4,
+        "songs": [
+          {
+            "song_name": "there you go",
+            "artist_name": "p!nk"
+          },
+          {
+            "song_name": "pop ya collar",
+            "artist_name": "usher"
+          },
+          {
+            "song_name": "don't think i'm not",
+            "artist_name": "kandi"
+          },
+          {
+            "song_name": "bug a boo",
+            "artist_name": "destiny's child"
+          }
+        ]
+      }
+    ],
+    "5": [
+      {
+        "producer": "Kristian Lundin",
+        "song_count": 5,
+        "songs": [
+          {
+            "song_name": "larger than life",
+            "artist_name": "backstreet boys"
+          },
+          {
+            "song_name": "show me the meaning of being lonely",
+            "artist_name": "backstreet boys"
+          },
+          {
+            "song_name": "that's the way it is",
+            "artist_name": "celine dion"
+          },
+          {
+            "song_name": "one",
+            "artist_name": "backstreet boys"
+          },
+          {
+            "song_name": "bye bye bye",
+            "artist_name": "'n sync"
+          }
+        ]
+      },
+      {
+        "producer": "Norro Wilson",
+        "song_count": 5,
+        "songs": [
+          {
+            "song_name": "little girl",
+            "artist_name": "john michael montgomery"
+          },
+          {
+            "song_name": "what i need to do",
+            "artist_name": "kenny chesney"
+          },
+          {
+            "song_name": "country boy can survive (y2k version)",
+            "artist_name": "chad brock feat. hank williams jr. & george jones"
+          },
+          {
+            "song_name": "she thinks my tractor's sexy",
+            "artist_name": "kenny chesney"
+          },
+          {
+            "song_name": "yes!",
+            "artist_name": "chad brock"
+          }
+        ]
+      },
+      {
+        "producer": "Rami",
+        "song_count": 5,
+        "songs": [
+          {
+            "song_name": "shape of my heart",
+            "artist_name": "backstreet boys"
+          },
+          {
+            "song_name": "oops!...i did it again",
+            "artist_name": "britney spears"
+          },
+          {
+            "song_name": "it's gonna be me",
+            "artist_name": "'n sync"
+          },
+          {
+            "song_name": "stronger",
+            "artist_name": "britney spears"
+          },
+          {
+            "song_name": "lucky",
+            "artist_name": "britney spears"
+          }
+        ]
+      },
+      {
+        "producer": "Tony Brown",
+        "song_count": 5,
+        "songs": [
+          {
+            "song_name": "feels like love",
+            "artist_name": "vince gill"
+          },
+          {
+            "song_name": "go on",
+            "artist_name": "george strait"
+          },
+          {
+            "song_name": "smoke rings in the dark",
+            "artist_name": "gary allan"
+          },
+          {
+            "song_name": "i'll be",
+            "artist_name": "reba mcentire"
+          },
+          {
+            "song_name": "best day",
+            "artist_name": "george strait"
+          }
+        ]
+      }
+    ],
+    "6": [
+      {
+        "producer": "Anthony “Shep” Crawford",
+        "song_count": 6,
+        "songs": [
+          {
+            "song_name": "as we lay",
+            "artist_name": "kelly price"
+          },
+          {
+            "song_name": "thank you in advance",
+            "artist_name": "boyz ii men"
+          },
+          {
+            "song_name": "we can't be friends",
+            "artist_name": "deborah cox feat. r.l."
+          },
+          {
+            "song_name": "ta da",
+            "artist_name": "lil' mo"
+          },
+          {
+            "song_name": "incomplete",
+            "artist_name": "sisqo"
+          },
+          {
+            "song_name": "same script, different cast",
+            "artist_name": "whitney houston & deborah cox"
+          }
+        ]
+      },
+      {
+        "producer": "Blake Chancey",
+        "song_count": 6,
+        "songs": [
+          {
+            "song_name": "without you",
+            "artist_name": "dixie chicks"
+          },
+          {
+            "song_name": "oklahoma",
+            "artist_name": "billy gilman"
+          },
+          {
+            "song_name": "cowboy take me away",
+            "artist_name": "dixie chicks"
+          },
+          {
+            "song_name": "one voice",
+            "artist_name": "billy gilman"
+          },
+          {
+            "song_name": "goodbye earl",
+            "artist_name": "dixie chicks"
+          },
+          {
+            "song_name": "cold day in july",
+            "artist_name": "dixie chicks"
+          }
+        ]
+      },
+      {
+        "producer": "Buddy Cannon",
+        "song_count": 6,
+        "songs": [
+          {
+            "song_name": "little girl",
+            "artist_name": "john michael montgomery"
+          },
+          {
+            "song_name": "what i need to do",
+            "artist_name": "kenny chesney"
+          },
+          {
+            "song_name": "i lost it",
+            "artist_name": "kenny chesney"
+          },
+          {
+            "song_name": "country boy can survive (y2k version)",
+            "artist_name": "chad brock feat. hank williams jr. & george jones"
+          },
+          {
+            "song_name": "she thinks my tractor's sexy",
+            "artist_name": "kenny chesney"
+          },
+          {
+            "song_name": "yes!",
+            "artist_name": "chad brock"
+          }
+        ]
+      },
+      {
+        "producer": "Cory Rooney",
+        "song_count": 6,
+        "songs": [
+          {
+            "song_name": "i need to know",
+            "artist_name": "marc anthony"
+          },
+          {
+            "song_name": "bring it all to me",
+            "artist_name": "blaque"
+          },
+          {
+            "song_name": "independent women part i",
+            "artist_name": "destiny's child"
+          },
+          {
+            "song_name": "love don't cost a thing",
+            "artist_name": "jennifer lopez"
+          },
+          {
+            "song_name": "i think i'm in love with you",
+            "artist_name": "jessica simpson"
+          },
+          {
+            "song_name": "you sang to me",
+            "artist_name": "marc anthony"
+          }
+        ]
+      },
+      {
+        "producer": "Keith Stegall",
+        "song_count": 6,
+        "songs": [
+          {
+            "song_name": "where were you (when the world stopped turning)",
+            "artist_name": "alan jackson"
+          },
+          {
+            "song_name": "it must be love",
+            "artist_name": "alan jackson"
+          },
+          {
+            "song_name": "there is no arizona",
+            "artist_name": "jamie o'neal"
+          },
+          {
+            "song_name": "www.memory",
+            "artist_name": "alan jackson"
+          },
+          {
+            "song_name": "little gasoline",
+            "artist_name": "terri clark"
+          },
+          {
+            "song_name": "pop a top",
+            "artist_name": "alan jackson"
+          }
+        ]
+      },
+      {
+        "producer": "Walter Afanasieff",
+        "song_count": 6,
+        "songs": [
+          {
+            "song_name": "my baby you",
+            "artist_name": "marc anthony"
+          },
+          {
+            "song_name": "all i want for christmas is you",
+            "artist_name": "mariah carey"
+          },
+          {
+            "song_name": "auld lang syne",
+            "artist_name": "kenny g"
+          },
+          {
+            "song_name": "crash and burn",
+            "artist_name": "savage garden"
+          },
+          {
+            "song_name": "she bangs",
+            "artist_name": "ricky martin"
+          },
+          {
+            "song_name": "i knew i loved you",
+            "artist_name": "savage garden"
+          }
+        ]
+      }
+    ],
+    "7": [
+      {
+        "producer": "Bryan-Michael Cox",
+        "song_count": 7,
+        "songs": [
+          {
+            "song_name": "confessions part ii",
+            "artist_name": "usher"
+          },
+          {
+            "song_name": "get gone",
+            "artist_name": "ideal"
+          },
+          {
+            "song_name": "let's get married",
+            "artist_name": "jagged edge"
+          },
+          {
+            "song_name": "he can't love u",
+            "artist_name": "jagged edge"
+          },
+          {
+            "song_name": "promise",
+            "artist_name": "jagged edge"
+          },
+          {
+            "song_name": "u got it bad",
+            "artist_name": "usher"
+          },
+          {
+            "song_name": "just be a man about it",
+            "artist_name": "toni braxton"
+          }
+        ]
+      },
+      {
+        "producer": "Dann Huff",
+        "song_count": 7,
+        "songs": [
+          {
+            "song_name": "what about now",
+            "artist_name": "lonestar"
+          },
+          {
+            "song_name": "tell her",
+            "artist_name": "lonestar"
+          },
+          {
+            "song_name": "i will...but",
+            "artist_name": "shedaisy"
+          },
+          {
+            "song_name": "smile",
+            "artist_name": "lonestar"
+          },
+          {
+            "song_name": "this woman needs",
+            "artist_name": "shedaisy"
+          },
+          {
+            "song_name": "amazed",
+            "artist_name": "lonestar"
+          },
+          {
+            "song_name": "you won't be lonely now",
+            "artist_name": "billy ray cyrus"
+          }
+        ]
+      },
+      {
+        "producer": "James Stroud",
+        "song_count": 7,
+        "songs": [
+          {
+            "song_name": "my best friend",
+            "artist_name": "tim mcgraw"
+          },
+          {
+            "song_name": "country comes to town",
+            "artist_name": "toby keith"
+          },
+          {
+            "song_name": "some things never change",
+            "artist_name": "tim mcgraw"
+          },
+          {
+            "song_name": "you shouldn't kiss me like this",
+            "artist_name": "toby keith"
+          },
+          {
+            "song_name": "when you need my love",
+            "artist_name": "darryl worley"
+          },
+          {
+            "song_name": "how do you like me now?!",
+            "artist_name": "toby keith"
+          },
+          {
+            "song_name": "my next thirty years",
+            "artist_name": "tim mcgraw"
+          }
+        ]
+      }
+    ],
+    "9": [
+      {
+        "producer": "Max Martin",
+        "song_count": 9,
+        "songs": [
+          {
+            "song_name": "shape of my heart",
+            "artist_name": "backstreet boys"
+          },
+          {
+            "song_name": "oops!...i did it again",
+            "artist_name": "britney spears"
+          },
+          {
+            "song_name": "show me the meaning of being lonely",
+            "artist_name": "backstreet boys"
+          },
+          {
+            "song_name": "it's my life",
+            "artist_name": "bon jovi"
+          },
+          {
+            "song_name": "that's the way it is",
+            "artist_name": "celine dion"
+          },
+          {
+            "song_name": "stronger",
+            "artist_name": "britney spears"
+          },
+          {
+            "song_name": "one",
+            "artist_name": "backstreet boys"
+          },
+          {
+            "song_name": "lucky",
+            "artist_name": "britney spears"
+          },
+          {
+            "song_name": "crazy",
+            "artist_name": "britney spears"
+          }
+        ]
+      },
+      {
+        "producer": "Paul Worley",
+        "song_count": 9,
+        "songs": [
+          {
+            "song_name": "georgia",
+            "artist_name": "carolyn dawn johnson"
+          },
+          {
+            "song_name": "love's the only house",
+            "artist_name": "martina mcbride"
+          },
+          {
+            "song_name": "there you are",
+            "artist_name": "martina mcbride"
+          },
+          {
+            "song_name": "without you",
+            "artist_name": "dixie chicks"
+          },
+          {
+            "song_name": "cowboy take me away",
+            "artist_name": "dixie chicks"
+          },
+          {
+            "song_name": "goodbye earl",
+            "artist_name": "dixie chicks"
+          },
+          {
+            "song_name": "cold day in july",
+            "artist_name": "dixie chicks"
+          },
+          {
+            "song_name": "born to fly",
+            "artist_name": "sara evans"
+          },
+          {
+            "song_name": "i love you",
+            "artist_name": "martina mcbride"
+          }
+        ]
+      }
+    ],
+    "11": [
+      {
+        "producer": "Byron Gallimore",
+        "song_count": 11,
+        "songs": [
+          {
+            "song_name": "breathe",
+            "artist_name": "faith hill"
+          },
+          {
+            "song_name": "carlene",
+            "artist_name": "phil vassar"
+          },
+          {
+            "song_name": "my best friend",
+            "artist_name": "tim mcgraw"
+          },
+          {
+            "song_name": "just another day in paradise",
+            "artist_name": "phil vassar"
+          },
+          {
+            "song_name": "let's make love",
+            "artist_name": "faith hill feat. tim mcgraw"
+          },
+          {
+            "song_name": "because you love me",
+            "artist_name": "jo dee messina"
+          },
+          {
+            "song_name": "you'll always be loved by me",
+            "artist_name": "brooks & dunn"
+          },
+          {
+            "song_name": "some things never change",
+            "artist_name": "tim mcgraw"
+          },
+          {
+            "song_name": "my next thirty years",
+            "artist_name": "tim mcgraw"
+          },
+          {
+            "song_name": "that's the way",
+            "artist_name": "jo dee messina"
+          },
+          {
+            "song_name": "burn",
+            "artist_name": "jo dee messina"
+          }
+        ]
+      }
+    ]
+  }
+}
